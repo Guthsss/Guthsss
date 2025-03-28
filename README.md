@@ -17,13 +17,22 @@ Olá, meu nome é Gregory Guths, tenho 18 anos, sou natural de Itaiópolis (SC).
 
 <div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" largura="50" alta="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" largura="50" alta="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
 
 </div>
 
-### Estatísticas
+<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guthsss&show_icons=true)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Guthsss&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+
+
 
 
