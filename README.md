@@ -1,4 +1,4 @@
-# Gregório Guths
+# Gregory Guths
 
 **`Estudadnte de programação`**
 
@@ -30,9 +30,8 @@ Olá, meu nome é Gregory Guths, tenho 18 anos, sou natural de Itaiópolis (SC).
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Guthsss&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-
+    src="https://github-readme-stats.vercel.app/api?username=guthsss&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+/>
 
 
 
