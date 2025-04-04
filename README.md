@@ -23,7 +23,7 @@ Olá, meu nome é Gregory Guths, tenho 18 anos, sou natural de Rio Negro (PR). C
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" 
 />
 
-### 📊 Estatísticas
+
 
 <p>
   <img 
