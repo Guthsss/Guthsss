@@ -2,7 +2,7 @@
 
 **`Estudante de programação`**
 
-Olá, meu nome é Gregory Guths, tenho 18 anos, sou natural de Rio Negro (PR). Concluí o ensino médio no Colégio Excelência e atualmente sou estudante de Engenharia de Software na Universidade do Contestado.
+Olá, meu nome é Gregory Guths, tenho 18 anos, sou natural de Rio Negro (PR). Concluí o ensino médio no Colégio Excelência e atualmente sou estudante de Engenharia de Software na Universidade do Contestado (SC).
 
 <a href="https://www.linkedin.com/in/gregory-guths-521349345/" alvo="_em branco"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alvo="_em branco">
 </a>
