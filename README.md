@@ -1,4 +1,6 @@
-# Gregory Guths
+Gregory Guths
+
+---
 
 `Estudante de programação`
 
@@ -11,10 +13,6 @@ Olá, meu nome é Gregory Guths, tenho 18 anos, sou natural de Rio Negro (PR). C
 </a>
 
 ---
-
-
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guthsss&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guthsss&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
 
 
 <p>
