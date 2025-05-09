@@ -13,7 +13,6 @@ Olá, meu nome é Gregory Guths, tenho 18 anos, sou natural de Rio Negro (PR). C
 
 # Linguagens e Tecnologias
 
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"
 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" 
@@ -28,15 +27,32 @@ Olá, meu nome é Gregory Guths, tenho 18 anos, sou natural de Rio Negro (PR). C
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Guthsss&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guthsss&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guthsss&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guthsss&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+ <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+</a>
 
-</p>
+
+ 
+ 
+  
+
+  
+
+
+
+
+
+
+ 
+  
+  
+
+  
 
 
 
