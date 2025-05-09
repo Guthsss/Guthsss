@@ -1,5 +1,7 @@
 ### Gregory Guths
 
+---
+
 `Estudante de programação`
 
 Olá, meu nome é Gregory Guths, tenho 18 anos, sou natural de Rio Negro (PR). Concluí o ensino médio no Colégio Excelência e atualmente sou estudante de Engenharia de Software na Universidade do Contestado (SC).
