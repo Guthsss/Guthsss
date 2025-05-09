@@ -1,6 +1,4 @@
-Gregory Guths
-
----
+#Gregory Guths
 
 `Estudante de programação`
 
