@@ -9,7 +9,7 @@ Olá, meu nome é Gregory Guths, tenho 18 anos, sou natural de Rio Negro (PR). C
 `Linguagens e Tecnologias`
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,html,figma,github,discord,linkedin,java" />
+  <img src="https://skillicons.dev/icons?i=java,git,vscode,html,figma,github,discord,linkedin,linux" />
 </a>
 
 
