@@ -18,7 +18,7 @@ Olá, meu nome é Gregory Guths, tenho 18 anos e sou natural de Rio Negro (PR). 
     align="left"
     alt="GitHub Stats" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Guthsss&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Guthsss&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
   />
   <p/>
 
