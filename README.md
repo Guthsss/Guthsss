@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F0F0F0&lineHeight=30&width=435&lines=Hello+I'm+Gregory+Guths.;That's+it." width="70%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F0F0F0&lineHeight=30&width=435&lines=Hello+I'm+Gregory+Guths.;That's+it." width="100%" />
 
 `Estudante de programação`
 
