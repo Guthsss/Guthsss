@@ -1,6 +1,6 @@
 ### Gregory Guths
 
----
+#
 
 `Estudante de programação`
 
@@ -12,7 +12,8 @@ Olá, meu nome é Gregory Guths, tenho 18 anos e sou natural de Rio Negro (PR). 
   <img src="https://skillicons.dev/icons?i=java,git,vscode,html,figma,github,discord,linkedin,linux" />
 </a>
 
-#
+---
+
   ![Guthsss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guthsss&theme=dark&show_icons=true)
 
   
