@@ -14,6 +14,13 @@ Olá, meu nome é Gregory Guths, tenho 18 anos e sou natural de Rio Negro (PR). 
 
   ![Guthsss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guthsss&theme=dark&show_icons=true)
 
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/lowlighter/metrics/blob/examples/AprendizagemJava.repository.svg" alt=""></img>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+
   
 
 
