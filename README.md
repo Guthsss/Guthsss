@@ -2,7 +2,7 @@
 
 `Desenvolvedor backend`
 
-Olá, meu nome é Gregory Guths, tenho 18 anos e sou natural de Rio Negro (PR). Concluí o ensino médio no Colégio Excelência e atualmente sou estudante de Engenharia de Software na Universidade do Contestado (SC). Estou aprofundando meus estudos em linguagens de programação com foco em Java, além de possuir conhecimentos em ferramentas como Git e GitHub, sistemas operacionais baseados em Linux — com experiência em distribuições como Arch Linux e Ubuntu — e editores de código como o Visual Studio Code e a plataforma IntelliJ IDEA. Também tenho familiaridade com conceitos de hardware e tecnologia em geral.
+Olá, meu nome é Gregory Guths, tenho 18 anos e sou natural de Rio Negro (PR). Concluí o ensino médio no Colégio Excelência e atualmente sou estudante de Engenharia de Software na Universidade do Contestado (SC). Estou aprofundando meus estudos em linguagens de programação com foco em Java, além de possuir conhecimentos em ferramentas como Git e GitHub, sistemas operacionais baseados em Linux com experiência em distribuições como Arch Linux e Ubuntu e editores de código como o Visual Studio Code e a plataforma IntelliJ IDEA. Também tenho familiaridade com conceitos de hardware e tecnologia em geral.
 
 `Linguagens e Tecnologias`
 <div align="center" >
