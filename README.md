@@ -11,7 +11,7 @@ Desenvolver minha carreira como programador, aprimorando habilidades técnicas e
 `Linguagens e Tecnologias`
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=java,git,vscode,idea,html,css,figma,github,linkedin,linux,ubuntu,arch" />
+  <img src="https://skillicons.dev/icons?i=java,git,vscode,idea,eclipse,html,css,figma,github,linux,ubuntu,arch" />
 </a>
 
 ##
