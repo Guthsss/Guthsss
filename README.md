@@ -18,19 +18,21 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Gregory Guths</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+###
+
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
 
-<p align="left">I'm Gregory Guths from Itaiópolis, SC<br><br>- 📚 I'm currently learning Java and data base.<br>- ⚡ In my free time I program.</p>
+<p align="left">Eu sou Gregory Guths, tenho 18 anos e sou de Itaiópolis, SC<br><br>- 📚 Atualmente estou aprofundando meus estudos em Java e aprendendo banco de dados.<br>- ⚡ Estou me graduando em Engenharia de Software na UNC | Universidade do Contestado, Mafra.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
 
@@ -54,7 +56,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Meu Status </h3>
 
 ###
 
