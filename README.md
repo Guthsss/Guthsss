@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Eu sou Gregory Guths, tenho 18 anos e sou de Itaiópolis, SC<br><br>- 📚 Atualmente estou aprofundando meus estudos em Java e aprendendo banco de dados.<br>- ⚡ Estou me graduando em Engenharia de Software na UNC | Universidade do Contestado, Mafra.</p>
+<p align="left">Eu sou Gregory Guths, tenho 18 anos e sou de Itaiópolis, SC<br><br>- 📚 Atualmente estou aprofundando meus estudos em Java e aprendendo banco de dados.<br>- ⚡ Estou me graduando em Engenharia de Software na UNC | Universidade do Contestado, SC.</p>
 
 ###
 
