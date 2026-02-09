@@ -22,10 +22,10 @@
 
 ###
 
-<h5 align="center">
+<h6 align="center">
   "Programmingr: It's simple, it can be complex. It takes root in the concrete and becomes abstract."<br>
   (Carlos Cesar)
-</h5>
+</h6>
 
 ##
 
