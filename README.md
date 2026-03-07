@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">My name is Gregory Guths, I am 18 years old and I am from Itaiópolis, SC.<br><br>- 🔭 I am working as a young apprentice at Nidec Global Appliance.<br>- 📚 I am currently learning more about Java, Spring Boot, Python, and MySQL.<br>- ⚡ I am graduating in Software Engineering from UNC | Universidade do Contestado, SC</p>
+<p align="left">My name is Gregory Guths, I am 19 years old and I am from Itaiópolis, SC.<br><br>- 🔭 I am working as a young apprentice at Nidec Global Appliance.<br>- 📚 I am currently learning more about Java, Spring Boot, Python, and MySQL.<br>- ⚡ I am graduating in Software Engineering from UNC | Universidade do Contestado, SC</p>
 
 ###
 
