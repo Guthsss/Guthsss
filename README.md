@@ -44,5 +44,13 @@
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Guthsss&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Guthsss&theme=tokyonight&hide_border=true&background=00000000&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="Sequência de contribuições de Guthsss" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guthsss&theme=tokyonight&hide_border=true&bg_color=00000000&color=7aa2f7&line=2ea043&point=2ea043&area=true&area_color=2ea043" alt="Gráfico de atividade e commits de Guthsss" />
+</p>
+
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Guthsss">Guthsss</a></i></p>
