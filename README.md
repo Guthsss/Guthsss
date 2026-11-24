@@ -10,8 +10,9 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **a young apprentice at Nidec Global Appliance.**  
-🌱 &nbsp;I'm currently learning **more about Java, Spring Boot, Python, and MySQL.**
+🎓 &nbsp;I'm currently pursuing a degree in **Software Engineering.**  
+🌱 &nbsp;I'm currently learning **more about Java, Spring Boot, Python, and MySQL.**  
+💬 &nbsp;I'm open to **internship and junior developer opportunities.**
 
 ### 🛠️ Tech Stack
 
